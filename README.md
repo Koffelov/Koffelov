@@ -8,7 +8,6 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/KDRSH%20Games-портфолио-60cdff?style=for-the-badge&logo=githubpages&logoColor=white)](https://koffelov.github.io)
 [![Repositories](https://img.shields.io/badge/все%20репозитории-0078d4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Koffelov?tab=repositories)
 ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=Koffelov.Koffelov&left_color=%23050010&right_color=%2360cdff)
 
@@ -21,7 +20,6 @@
 - 🎮 Делаю интерактивные мини-игры, в которые играет **чат на Twitch**: угадай слово, битва песен, босс чата, розыгрыши
 - 🧩 Собираю всё под **OBS** — оверлеи, таймеры, виджеты, которые подключаются как Browser Source
 - 📱 Пишу **Android-клиент** для [eblo.id](https://eblo.id) и скрипты на **Lua** для Roblox
-- 🌐 Все игры собраны в одном месте: **[koffelov.github.io](https://koffelov.github.io)** — рабочий стол в духе Papers, Please
 
 ## 🛠 Стек
 
@@ -47,23 +45,6 @@
 | Проект | О чём | Стек |
 | :-- | :-- | :-- |
 | [**eblo-id-android**](https://github.com/Koffelov/eblo-id-android) | Неофициальный Android-клиент для eblo.id (оболочка WebView), сборка и релизы через GitHub Actions | ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white) |
-| [**slovotron**](https://github.com/Koffelov/slovotron) | Угадывание слов по смыслу для Twitch-чата, редизайн KDRSH | ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) |
-| [**gartic**](https://github.com/Koffelov/gartic) · [играть](https://koffelov.github.io/gartic/) | Gartic Show для стрима: стример рисует слово, а зрители угадывают его в Twitch-чате | ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) |
-| [**Ink-Game-Hub**](https://github.com/Koffelov/Ink-Game-Hub) | Хаб для Ink Game в Roblox с «Красный свет, зелёный свет» | ![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=white) |
-| [**koffelov.github.io**](https://github.com/Koffelov/koffelov.github.io) · [открыть](https://koffelov.github.io) | Портфолио KDRSH Games, оформленное как рабочий стол | ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) |
-
-## 🎲 Игры для стрима — можно открыть и попробовать
-
-<div align="center">
-
-| | | |
-| :-: | :-: | :-: |
-| [🎣 Рыбалка](https://fishing-sandy.vercel.app) | [🪙 Орёл и решка](https://coinflip-six-cyan.vercel.app) | [🔤 Угадай слово](https://guess-word-puce.vercel.app) |
-| [🎡 Поле чудес](https://pole-chudes-seven.vercel.app) | [💣 Обезвредь бомбу](https://bomb-defuse-delta.vercel.app) | [🎵 Битва песен](https://songbattle-xi.vercel.app) |
-| [👹 Босс чата](https://chat-boss-jet.vercel.app) | [🔥 Прожарка от ИИ](https://ai-roast-beta.vercel.app) | [🎁 Розыгрыш](https://giveaway-one-jet.vercel.app) |
-| [🖱 Кликер](https://stimulation-chi.vercel.app) | [⏱ Таймер для OBS](https://obs-timer-inky.vercel.app) | [💬 Чат на экране](https://custom-chat-dusky.vercel.app) |
-
-</div>
 
 ## 📊 Активность
 
@@ -77,7 +58,7 @@
 
 <div align="center">
 
-<sub>Создано с ❤️ для стримеров · <a href="https://koffelov.github.io">KDRSH Games</a></sub>
+<sub>Создано с ❤️ для стримеров · KDRSH Games</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" alt="footer" />
 
